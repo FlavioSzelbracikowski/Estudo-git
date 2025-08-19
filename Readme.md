@@ -9,4 +9,5 @@
 - git status
 - git branch (o default é master)
 - git branch -m main
-- git push origin main -u
+- git push origin main -u (com o -u da proxima pode abreviar)
+- git push
