@@ -3,3 +3,10 @@
 - git config --global user.name "FlavioSzelbracikowski"
 - git config --global user.email "ssflavio@osite.com.br"
 - git config --global init.dafaultBranch main
+- git condig --list
+- git add .
+- git commit -m "first"
+- git status
+- git branch (o default é master)
+- git branch -m main
+- git push origin main -u
